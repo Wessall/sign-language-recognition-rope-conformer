@@ -1,0 +1,18 @@
+=========================================================
+       DATASET REPORT — RoPE_Conformer
+=========================================================
+Total sequences         : 94477
+Unique classes          : 250
+Selected landmark nodes : 118
+Feature channels        : 708
+Max sequence length     : 384 frames
+Input tensor shape      : (Batch, 384, 708)
+---------------------------------------------------------
+Training   : 75581 samples
+Validation : 9448 samples
+Test       : 9448 samples
+---------------------------------------------------------
+[Train] max=332  min=239  mean=302.3
+[Val]   max=42  min=30  mean=37.8
+[Test]  max=41  min=30  mean=37.8
+=========================================================

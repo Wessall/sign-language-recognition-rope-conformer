@@ -1,0 +1,17 @@
+# Large files
+
+*.pb
+*.zip
+*.data-*
+*.index
+
+# Folders
+checkpoints/
+archives/
+models/*/variables/
+
+# Logs
+*.log
+
+# Cache
+__pycache__/
