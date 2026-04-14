@@ -1,0 +1,2 @@
+model,test_loss,test_accuracy,test_top5
+RoPE_Conformer,1.4718598127365112,0.8553082346916199,0.9413527250289917

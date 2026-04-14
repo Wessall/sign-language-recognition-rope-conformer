@@ -1,0 +1,2 @@
+model,total_parameters,trainable_parameters,non_trainable_params,weight_footprint_mb,disk_size_mb
+RoPE_Conformer,8103035,8099451,3584,30.91,31.29

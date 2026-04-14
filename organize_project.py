@@ -2,7 +2,7 @@ import shutil
 from pathlib import Path
 
 ROOT = Path.cwd()
-DRY_RUN = True
+DRY_RUN = False
 
 def log(msg):
     print(msg)

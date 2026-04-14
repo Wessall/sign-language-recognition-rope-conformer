@@ -1,0 +1,2 @@
+model,accuracy,top_5_acc,macro_f1,weighted_f1,macro_roc_auc,macro_pr_auc,n_classes,n_test_samples
+RoPE_Conformer,0.8553,0.9414,0.8535,0.8551,0.9875,0.8678,250,9344

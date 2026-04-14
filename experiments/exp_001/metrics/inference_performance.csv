@@ -1,2 +1,0 @@
-device,batch_size,warmup_batches,measured_batches,total_samples,mean_batch_lat_ms,std_batch_lat_ms,per_sample_lat_ms,throughput_sps
-GPU,128,3,20,2560,2638.821,29.883,20.6158,48.5
